@@ -16,7 +16,7 @@ namespace ISQuickStart
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddIdentityServer() // registers IS services in DI & registers an in-memory store for runtime state
-            .AddDeveloperSigningCredential();
+            .AddDeveloperSigningCredential(); //extension creates temporary key material for signin tokens -- will need to be replaced by a persistent key material for production
             //This is configured and added to the DI system
         }
 
