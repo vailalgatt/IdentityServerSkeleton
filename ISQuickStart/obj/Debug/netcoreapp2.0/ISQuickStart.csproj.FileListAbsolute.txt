@@ -1,0 +1,8 @@
+C:\Users\vaila\source\repos\ISQuickStart\ISQuickStart\bin\Debug\netcoreapp2.0\ISQuickStart.deps.json
+C:\Users\vaila\source\repos\ISQuickStart\ISQuickStart\bin\Debug\netcoreapp2.0\ISQuickStart.runtimeconfig.json
+C:\Users\vaila\source\repos\ISQuickStart\ISQuickStart\bin\Debug\netcoreapp2.0\ISQuickStart.runtimeconfig.dev.json
+C:\Users\vaila\source\repos\ISQuickStart\ISQuickStart\bin\Debug\netcoreapp2.0\ISQuickStart.dll
+C:\Users\vaila\source\repos\ISQuickStart\ISQuickStart\obj\Debug\netcoreapp2.0\ISQuickStart.csprojResolveAssemblyReference.cache
+C:\Users\vaila\source\repos\ISQuickStart\ISQuickStart\obj\Debug\netcoreapp2.0\ISQuickStart.csproj.CoreCompileInputs.cache
+C:\Users\vaila\source\repos\ISQuickStart\ISQuickStart\obj\Debug\netcoreapp2.0\ISQuickStart.AssemblyInfoInputs.cache
+C:\Users\vaila\source\repos\ISQuickStart\ISQuickStart\obj\Debug\netcoreapp2.0\ISQuickStart.AssemblyInfo.cs
